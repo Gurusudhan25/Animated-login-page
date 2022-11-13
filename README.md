@@ -2,7 +2,7 @@
 
 ## Contributor
 
-- Gurusudhan V
+- **Gurusudhan V**
 
 ## Steps to follow
 
