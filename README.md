@@ -16,6 +16,3 @@
 
 5.Then open the Host port in Browser
 
-### Deployed in Heroku.com
-
-[Click here to see the demo](https://gs-blogs.herokuapp.com/)
